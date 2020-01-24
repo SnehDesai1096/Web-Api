@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GeniusAcademy.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "GeniusAcademy.Types": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GeniusAcademy.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeniusAcademy.Data.dll": {}
+        }
+      },
+      "GeniusAcademy.Types/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/GeniusAcademy.Types.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeniusAcademy.Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeniusAcademy.Data/1.0.0": {
+      "type": "project",
+      "path": "../GeniusAcademy.Data/GeniusAcademy.Data.csproj",
+      "msbuildProject": "../GeniusAcademy.Data/GeniusAcademy.Data.csproj"
+    },
+    "GeniusAcademy.Types/1.0.0": {
+      "type": "project",
+      "path": "../GeniusAcademy.Types/GeniusAcademy.Types.csproj",
+      "msbuildProject": "../GeniusAcademy.Types/GeniusAcademy.Types.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "GeniusAcademy.Data >= 1.0.0",
+      "GeniusAcademy.Types >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\snehu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Work\\GeniusAcademy\\GeniusAcademy.EF\\GeniusAcademy.EF.csproj",
+      "projectName": "GeniusAcademy.EF",
+      "projectPath": "D:\\Work\\GeniusAcademy\\GeniusAcademy.EF\\GeniusAcademy.EF.csproj",
+      "packagesPath": "C:\\Users\\snehu\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\GeniusAcademy\\GeniusAcademy.EF\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\snehu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "D:\\Work\\GeniusAcademy\\GeniusAcademy.Data\\GeniusAcademy.Data.csproj": {
+              "projectPath": "D:\\Work\\GeniusAcademy\\GeniusAcademy.Data\\GeniusAcademy.Data.csproj"
+            },
+            "D:\\Work\\GeniusAcademy\\GeniusAcademy.Types\\GeniusAcademy.Types.csproj": {
+              "projectPath": "D:\\Work\\GeniusAcademy\\GeniusAcademy.Types\\GeniusAcademy.Types.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
