@@ -1,0 +1,8 @@
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\bin\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.deps.json
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\bin\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.dll
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\bin\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.pdb
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\obj\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.csproj.CoreCompileInputs.cache
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\obj\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.AssemblyInfoInputs.cache
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\obj\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.AssemblyInfo.cs
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\obj\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.dll
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.ViewModel\obj\Debug\netcoreapp2.2\GeniusAcademy.ViewModel.pdb
