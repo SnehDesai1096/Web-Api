@@ -1,0 +1,11 @@
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\bin\Debug\netcoreapp2.2\GeniusAcademy.Types.deps.json
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\bin\Debug\netcoreapp2.2\GeniusAcademy.Types.dll
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\bin\Debug\netcoreapp2.2\GeniusAcademy.Types.pdb
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.csproj.CoreCompileInputs.cache
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.AssemblyInfoInputs.cache
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.AssemblyInfo.cs
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.dll
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.pdb
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\bin\Debug\netcoreapp2.2\GeniusAcademy.Types.runtimeconfig.json
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\bin\Debug\netcoreapp2.2\GeniusAcademy.Types.runtimeconfig.dev.json
+D:\Users\Sneh\Projects\UserAuthentication\GeniusAcademy\GeniusAcademy.Types\obj\Debug\netcoreapp2.2\GeniusAcademy.Types.csprojAssemblyReference.cache
